@@ -128,7 +128,7 @@ hr {
 }
 .btn-default {
 	text-transform: uppercase;
-	color: #555;
+	color: #cf9b9b;
 	background-color: transparent;
 	border-color: #777;
 	padding: 14px 20px;
@@ -139,8 +139,8 @@ hr {
 }
 .btn-default:hover, .btn-default:focus, .btn-default.focus, .btn-default:active, .btn-default.active {
 	color: #fff;
-	background-color: #121d1f;
-	border-color: #121d1f;
+	background-color: #000a42;
+	border-color: #cf9b9b;
 }
 /* Header Section */
 .intro {
