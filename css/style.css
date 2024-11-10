@@ -150,7 +150,7 @@ hr {
 	text-align: center;
 	color: #cf9b9b;
 	background: url(../img/cs.jpg) no-repeat center top;
-	background-color: #e5e5e5;
+	background-color: #cf9b9b;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	background-size: cover;
@@ -165,7 +165,7 @@ hr {
 	letter-spacing: 2px;
 	text-transform: uppercase;
 	margin-bottom: 20px;
-	color: #333;
+	color: #cf9b9b;
 }
 .intro p {
 	font-size: 20px;
