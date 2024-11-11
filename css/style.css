@@ -191,6 +191,7 @@ header .intro-text {
 	display: inline-block;
 }
 #about p {
+	font-size: 14px;
 	margin-top: 40px;
 	margin-bottom: 30px;
 	line-height: 22px;
@@ -198,7 +199,7 @@ header .intro-text {
 /* Portfolio Section */
 #portfolio {
 	padding: 120px 0;
-	background: #f6f6f6;
+	background: #cf9b9b;
 }
 .categories {
 	padding-bottom: 30px;
@@ -409,7 +410,7 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 }
 /* Footer Section*/
 #footer {
-	background: #f6f6f6;
+	background: #cf9b9b;
 	color: #777;
 	padding: 30px 0 25px 0;
 }
