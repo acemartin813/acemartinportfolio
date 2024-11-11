@@ -292,7 +292,7 @@ ol.type li a:hover {
 .hover-bg .hover-text>h4 {
 	text-transform: uppercase;
 	opacity: 0;
-	color: #fff;
+	color: #8cb0f5;
 	-webkit-transform: translateY(100%);
 	transform: translateY(100%);
 	transition: all 0.3s;
