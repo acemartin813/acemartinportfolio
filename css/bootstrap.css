@@ -1081,7 +1081,7 @@ th {
           box-sizing: border-box;
 }
 html {
-  font-size: 10px;
+  font-size: 14px;
 
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
@@ -1219,7 +1219,7 @@ h6 .small,
 .h6 .small {
   font-weight: normal;
   line-height: 1;
-  color: #777;
+  color: #1a1a1a;
 }
 h1,
 .h1,
@@ -1285,14 +1285,14 @@ h4,
 }
 h5,
 .h5 {
-  font-size: 14px;
+  font-size: 16px;
 }
 h6,
 .h6 {
-  font-size: 12px;
+  font-size: 14px;
 }
 p {
-  margin: 0 0 10px;
+  margin: 0 0 14px;
 }
 .lead {
   margin-bottom: 20px;
