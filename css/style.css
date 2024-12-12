@@ -279,8 +279,10 @@ ol.type li a:hover {
 	position: relative;
 }
 .portfolio-item img {
-    width: 100%; 
-    height: 100%; 
+    width: auto; 
+    height: auto; 
+    object-fit: cover; 
+    display: block;
 	
 .hover-bg .hover-text {
 	position: absolute;
