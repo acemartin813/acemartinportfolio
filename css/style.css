@@ -283,7 +283,7 @@ ol.type li a:hover {
     height: auto; 
     object-fit: cover; 
     display: block;
-	
+}	
 .hover-bg .hover-text {
 	position: absolute;
 	text-align: center;
