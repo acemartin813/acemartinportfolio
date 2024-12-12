@@ -278,6 +278,11 @@ ol.type li a:hover {
 	overflow: hidden;
 	position: relative;
 }
+.portfolio-item .hover-bg img {
+    width: 100%; 
+    height: 100%; 
+    object-fit: cover; 
+    display: block; 
 .hover-bg .hover-text {
 	position: absolute;
 	text-align: center;
