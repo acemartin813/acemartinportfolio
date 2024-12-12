@@ -280,7 +280,7 @@ ol.type li a:hover {
 }
 .portfolio-item img {
     width: auto; 
-    height: auto; 
+    height: 195px; 
 }	
 .hover-bg .hover-text {
 	position: absolute;
