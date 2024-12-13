@@ -5,7 +5,6 @@ body, html {
 	color: #171616;
 	width: 100% !important;
 	height: 100% !important;
-	padding-top: 40px;
 }
 h2 {
 	margin: 0 0 20px 0;
@@ -185,6 +184,9 @@ header .intro-text {
 /* About Section */
 #about {
 	padding: 120px 0px;
+}
+#about body {
+	padding-top: 40px;
 }
 #about .about-text {
 	margin-left: 10px;
