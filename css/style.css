@@ -79,7 +79,8 @@ hr {
 #nav.affix {
 	position: fixed;
 	top: 0;
-	width: 100%
+	width: 100%;
+	transition: all 0.3s ease-in-out;
 }
 .navbar .navbar-nav {
 	display: inline-block;
@@ -100,12 +101,12 @@ hr {
 	color: #555;
 }
 .navbar-custom .nav li a {
-	margin: 0 60px;
+	margin: 0 30px;
 	text-transform: uppercase;
 	letter-spacing: 2px;
-	-webkit-transition: background 0.4s cubic-bezier(0.4, 0, 0.2, 1);
-	-moz-transition: background 0.4s cubic-bezier(0.4, 0, 0.2, 1);
-	transition: all 0.5s ease;
+	-webkit-transition: background 0.3s ease-in-out;
+	-moz-transition: background 0.3s ease-in-out;
+	transition: all 0.3s ease-in-out;
 }
 .navbar-custom .nav li a:hover {
 	outline: 0;
