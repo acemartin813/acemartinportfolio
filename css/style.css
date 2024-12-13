@@ -103,9 +103,9 @@ hr {
 	margin: 0 60px;
 	text-transform: uppercase;
 	letter-spacing: 2px;
-	-webkit-transition: background 1s ease-in-out;
-	-moz-transition: background 1s ease-in-out;
-	transition: background 1s ease-in-out;
+	-webkit-transition: background 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+	-moz-transition: background 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+	transition: background 0.4s cubic-bezier(0.4, 0, 0.2, 1);
 }
 .navbar-custom .nav li a:hover {
 	outline: 0;
